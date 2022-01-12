@@ -1,0 +1,14 @@
+﻿Build started 1/12/2015 18:03:59.
+     1>Project "G:\Poly\ENG2002\Assignment_draft 7\pContactB\pContactB\pContactB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\pContactB.pdb" /Gd /TP /analyze- /errorReport:prompt pContactB.cpp
+         pContactB.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"G:\Poly\ENG2002\Assignment_draft 7\pContactB\Debug\pContactB.lib" /NOLOGO Debug\pContactB.obj
+         pEntry.lib
+         pContactB.vcxproj -> G:\Poly\ENG2002\Assignment_draft 7\pContactB\Debug\pContactB.lib
+     1>Done Building Project "G:\Poly\ENG2002\Assignment_draft 7\pContactB\pContactB\pContactB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.48
